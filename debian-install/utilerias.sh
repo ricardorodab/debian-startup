@@ -16,3 +16,4 @@ set show-all-if-unmodified on
 apt-get install flashplugin-nonfree
 apt-get install python-pip
 apt-get install python3-pip
+apt-get install postgresql
