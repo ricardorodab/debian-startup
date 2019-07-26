@@ -20,3 +20,6 @@ apt-get install postgresql
 apt-get install libpq-dev
 apt-get install haskell-mode
 apt-get install devscripts
+apt-get install tmux
+apt-get install ccze
+apt-get install cmatrix

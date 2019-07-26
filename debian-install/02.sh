@@ -8,3 +8,5 @@
 ./install-skype.sh
 ./latex.sh
 ./teamviewer.sh
+./no-more-secrets.sh
+./hollywood.sh
