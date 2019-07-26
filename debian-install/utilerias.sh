@@ -18,3 +18,5 @@ apt-get install python-pip
 apt-get install python3-pip
 apt-get install postgresql
 apt-get install libpq-dev
+apt-get install haskell-mode
+apt-get install devscripts

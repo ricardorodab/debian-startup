@@ -7,3 +7,4 @@
 ./customizer.sh
 ./install-skype.sh
 ./latex.sh
+./teamviewer.sh
