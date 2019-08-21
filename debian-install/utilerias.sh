@@ -23,3 +23,4 @@ apt-get install devscripts
 apt-get install tmux
 apt-get install ccze
 apt-get install cmatrix
+apt-get install lshw
