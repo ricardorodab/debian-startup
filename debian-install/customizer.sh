@@ -13,6 +13,7 @@ apt-get -t stretch-backports install libgtkmm-3.0-dev
 apt-get install gettext
 apt-get install libssl-dev
 apt-get install libarchive-dev
+apt-get install libgtkmm-3.0-dev
 cmake . && make
 make install
 cd $NOW_PWD
