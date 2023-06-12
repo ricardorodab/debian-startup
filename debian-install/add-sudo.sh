@@ -1,2 +1,2 @@
 apt-get install sudo
-visudo
+/usr/sbin/visudo

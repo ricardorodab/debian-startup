@@ -9,7 +9,7 @@ cd /home/$NOW_USER/Applications/grub-customizer-5.0.6/
 apt-get install cmake
 apt-get install g++
 apt-get install libgtkmm-3.0-dev
-apt-get -t stretch-backports install libgtkmm-3.0-dev
+apt-get -t bullseye-backports install libgtkmm-3.0-dev
 apt-get install gettext
 apt-get install libssl-dev
 apt-get install libarchive-dev
